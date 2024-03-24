@@ -1,4 +1,4 @@
-# main_script.py
+# main.py
 from screenshot_capture import capture_screenshot
 from screenshot_save import save_screenshot
 
