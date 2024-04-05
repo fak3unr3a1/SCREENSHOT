@@ -2,7 +2,7 @@
 from screenshot_capture import capture_screenshot
 from screenshot_save import save_screenshot
 
-def main():
+def main(query=None):  # Modify main to accept an optional argument
     # Capture the screenshot
     screenshot_image = capture_screenshot()
 
